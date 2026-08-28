@@ -1,0 +1,88 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/Toolcentral-ai/awesome-gemini-omni-flash-prompts/schema/gemini-omni-flash-prompt.schema.json",
+  "title": "Open Gemini Omni Flash Prompt Bundle",
+  "description": "Schema for data/gemini-omni-flash-prompts.json: an array of source-attributed Gemini Omni Flash prompts.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "id",
+      "slug",
+      "title",
+      "category",
+      "tags",
+      "model",
+      "domain",
+      "inputMode",
+      "prompt",
+      "variables",
+      "referenceImageCount",
+      "source"
+    ],
+    "properties": {
+      "id": {
+        "type": "string",
+        "minLength": 1
+      },
+      "slug": {
+        "type": "string",
+        "minLength": 1
+      },
+      "title": {
+        "type": "string",
+        "minLength": 1
+      },
+      "category": {
+        "type": "string",
+        "minLength": 1
+      },
+      "tags": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "model": {
+        "const": "gemini-omni-flash"
+      },
+      "domain": {
+        "const": "video"
+      },
+      "inputMode": {
+        "enum": [
+          "text_to_video",
+          "single_image_to_video"
+        ]
+      },
+      "prompt": {
+        "type": "string",
+        "minLength": 1
+      },
+      "variables": {
+        "type": "array"
+      },
+      "referenceImageCount": {
+        "type": "integer",
+        "minimum": 0
+      },
+      "source": {
+        "type": "object",
+        "required": [
+          "caseUrl",
+          "attribution"
+        ],
+        "properties": {
+          "caseUrl": {
+            "type": "string",
+            "format": "uri"
+          },
+          "attribution": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      }
+    }
+  }
+}

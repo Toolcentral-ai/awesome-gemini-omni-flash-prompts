@@ -1,0 +1,17 @@
+{
+  "id": "gemini-omni-flash-058_generated_28_13994_2x2",
+  "slug": "2x2-gemini-omni-flash",
+  "title": "2x2 日式横幅广告网格",
+  "category": "Atlas Generated T2V",
+  "tags": [],
+  "model": "gemini-omni-flash",
+  "domain": "video",
+  "inputMode": "text_to_video",
+  "prompt": "{ \"type\": \"2x2 grid of Japanese banner advertisements\", \"quadrants\": [ { \"position\": \"top-left\", \"theme\": \"skincare product launch\", \"visuals\": \"portrait of a young Japanese woman with glowing skin touching her face, bright white background, 2 sleek silver and white cosmetic bottles\", \"text_elements\": { \"main_copy\": \"{argument name=\\\"skincare catchphrase\\\" default=\\\"透明感、満ちる。\\\"}\", \"sub_copy\": \"肌が変わると、毎日が変わる。\", \"brand_name\": \"SUIREN\", \"badge\": \"6.1 NEW Debut\" } }, { \"position\": \"top-right\", \"theme\": \"European summer travel campaign\", \"visuals\": \"back view of a woman in a straw hat looking at a scenic European lake town with mountains and a church steeple\", \"text_elements\": { \"english_copy\": \"Find your Journey\", \"main_copy\": \"{argument name=\\\"travel catchphrase\\\" default=\\\"心が動く旅へ。\\\"}\", \"badge\": \"yellow circle with '今だけ！最大20%OFF'\", \"footer\": \"blue banner with '初夏のヨーロッパキャンペーン'\" } }, { \"position\": \"bottom-left\", \"theme\": \"traditional Japanese soup stock\", \"visuals\": \"close-up of a bowl of white rice topped with bonito flakes and a raw egg yolk, dark soy sauce being poured, 1 brown paper package of dashi\", \"text_elements\": { \"main_copy\": \"{argument name=\\\"food catchphrase\\\" default=\\\"毎日のごはんを、もっと美味しく。\\\"}\", \"product_name\": \"日々のだし\", \"sub_copy\": \"素材のうまみを、まるごと。\" } }, { \"position\": \"bottom-right\", \"theme\": \"investment app\", \"visuals\": \"smartphone displaying a financial dashboard with a blue line chart and balance '¥1,485,606'\", \"text_elements\": { \"brand_name\": \"{argument name=\\\"finance app name\\\" default=\\\"MoneyPath\\\"}\", \"main_copy\": \"未来の自分のために、{argument name=\\\"finance catchphrase\\\" default=\\\"今はじめる資産形成\\\"}\", \"badge\": \"blue circle with '1,000円分のポイントプレゼント！'\", \"footer\": \"blue banner with 4 icons and feature text\" } } ] }",
+  "variables": [],
+  "referenceImageCount": 0,
+  "source": {
+    "caseUrl": "https://imagepromptgallery.com/models/gemini-omni-flash/prompts",
+    "attribution": "Atlas Cloud Prompt Library"
+  }
+}

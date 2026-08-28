@@ -1,0 +1,17 @@
+{
+  "id": "gemini-omni-flash-x_2065510365769748812",
+  "slug": "abstract-geometric-shapes-gemini-omni-flash",
+  "title": "Abstract Geometric Shapes",
+  "category": "Twitter Community",
+  "tags": [],
+  "model": "gemini-omni-flash",
+  "domain": "video",
+  "inputMode": "text_to_video",
+  "prompt": "four sets of abstract geometric shapes with different textures and patterns, including purple and orange, cosmic galaxy, fossilized bones, and pink and black swirls, arranged in a grid on white background",
+  "variables": [],
+  "referenceImageCount": 0,
+  "source": {
+    "caseUrl": "https://imagepromptgallery.com/models/gemini-omni-flash/prompts",
+    "attribution": "https://x.com/Google/status/2065510365769748812"
+  }
+}

@@ -1,0 +1,1693 @@
+[
+  {
+    "id": "gemini-omni-flash-026_generated_01_t2v_01_golden_deer",
+    "slug": "golden-deer-gemini-omni-flash",
+    "title": "Golden Deer",
+    "category": "Other Inspiration",
+    "tags": [
+      "Atlas Generated T2V"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "Ultra-realistic macro forest cinematography, shallow depth of field, 4K mood lighting. A weathered porcelain white deer statue stands frozen in a damp mossy forest. A single drop of glowing golden honey falls into the deer eye. The porcelain cracks outward and transforms into warm living fur and muscle. The deer exhales cold mist, lowers its head, then leaps through the forest, scattering glowing particles. Rich cinematic sound design, restrained camera push-in, emotionally epic.",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/golden-deer-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-027_generated_02_t2v_02_perfume_ice",
+    "slug": "perfume-ice-gemini-omni-flash",
+    "title": "Perfume Ice",
+    "category": "Other Inspiration",
+    "tags": [
+      "Atlas Generated T2V"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "Luxury commercial cinematography, polished glass reflections, slow motion, 100mm macro lens. A black crystal perfume bottle sits on a frozen lake at blue hour. Hairline fractures spread across the ice in sync with a low bass pulse. The bottle rotates elegantly as silver vapor blooms around it. On the final beat, the ice bursts into suspended glittering shards and the logo lockup appears in clean light.",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/perfume-ice-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-028_generated_04_t2v_04_mini_chef_ramen",
+    "slug": "mini-chef-ramen-gemini-omni-flash",
+    "title": "Mini Chef Ramen",
+    "category": "Other Inspiration",
+    "tags": [
+      "Atlas Generated T2V"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "Playful food commercial with cinematic miniature photography. A tiny chef runs along the rim of a steaming ramen bowl, leaps onto springy noodles, and surfs a wave of rich broth toward a glowing soft-boiled egg. Steam rolls through the frame, sesame seeds fall in slow motion, and the final shot lands on a perfect hero angle.",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/mini-chef-ramen-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-029_generated_05_t2v_05_aurora_astronaut",
+    "slug": "aurora-astronaut-gemini-omni-flash",
+    "title": "Aurora Astronaut",
+    "category": "Other Inspiration",
+    "tags": [
+      "Atlas Generated T2V"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "Epic sci-fi landscape, IMAX-style wide shot, crisp atmosphere. An astronaut walks alone across mirror-like salt flats beneath a vivid green aurora. The reflection doubles the scene perfectly. The camera begins low behind the boots, then rises into a graceful orbit as the aurora twists into ribbon-like spirals overhead. Finish on a contemplative wide frame.",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/aurora-astronaut-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-030_generated_01_i2v_01_storyboard_cinematic",
+    "slug": "storyboard-cinematic-gemini-omni-flash",
+    "title": "Storyboard Cinematic",
+    "category": "Other Inspiration",
+    "tags": [
+      "Atlas Generated I2V"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "Show me in this story. Follow the story exactly in order starting top left. Entire story in 10 seconds. Cinematic.",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/storyboard-cinematic-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-031_generated_02_i2v_02_burger_assembly",
+    "slug": "burger-assembly-gemini-omni-flash",
+    "title": "Burger Assembly",
+    "category": "Other Inspiration",
+    "tags": [
+      "Atlas Generated I2V"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "Premium food ad with kinetic camera motion. Use the ingredient reference to build a gourmet burger in mid-air. Lettuce, tomato, onion, cheese, patty, and bun pieces levitate one by one, rotate elegantly, then snap together into a perfect hero burger with floating crumbs and dramatic studio lighting.",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/burger-assembly-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-032_generated_03_i2v_03_paper_typography",
+    "slug": "paper-typography-gemini-omni-flash",
+    "title": "Paper Typography",
+    "category": "Other Inspiration",
+    "tags": [
+      "Atlas Generated I2V"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "Motion graphics animation driven by the reference composition. Turn the reference text artwork into a handcrafted paper-cut title sequence. Letters pop in rhythmically, cast realistic shadows, and slide across the screen with elegant camera parallax.",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/paper-typography-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-033_generated_05_i2v_05_logo_reveal",
+    "slug": "logo-reveal-gemini-omni-flash",
+    "title": "Logo Reveal",
+    "category": "Other Inspiration",
+    "tags": [
+      "Atlas Generated I2V"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "High-end product reveal animation. Use the reference logo as the core subject. The logo extrudes into glossy chrome, rotates slowly in a dark studio, then emits thin volumetric light beams while the camera pushes in for a polished technology brand reveal.",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/logo-reveal-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-040_generated_09_tw_001_1_minute_cinematic_war_video_in_5_minutes_multi_shot_structu",
+    "slug": "1-minute-cinematic-war-video-in-5-minutes-multi-shot-structure-gemini-omni-flash",
+    "title": "1-Minute Cinematic War Video in 5 Minutes, multi-shot structure",
+    "category": "Other Inspiration",
+    "tags": [
+      "Atlas Generated T2V"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "Consistent style guideline for all shots: realistic cinematic war footage in a modern Middle Eastern desert village; dominant sandy yellow and gray-brown palette; harsh noon sunlight with hard shadows; drifting dust and gunpowder smoke; subtle handheld vibration; low-angle and ground-level framing to maximize tension and realism; modern light infantry gear without visible national identifiers; restrained, tense, and brutal atmosphere. Shot 1 : A modern infantry squad advances through narrow alleys between low adobe houses and damaged concrete walls. The camera tracks from behind at knee level, pushing forward as soldiers hug the walls and aim toward an unseen corner. Wind, distant metal clinks, and suspended dust establish dread. Shot 2 : A sudden close-quarters firefight erupts at the alley corner. Soldiers drop and press against the wall as rounds impact masonry, kicking up debris. Fast lateral camera pan with controlled shake, intermittent muzzle flashes, and silhouettes in broken windows increase claustrophobia and urgency. Shot 3 : The squad regains formation and enters a half-collapsed building. Over-shoulder follow shot into dim interior where shafts of sunlight cut through breached walls. Dust particles float in the beams; hand signals replace speech; distant gunfire echoes. Tone shifts from chaos to hyper-alert silence. Shot 4 : From a damaged rooftop, the squad secures a high vantage point over the village grid. Slow pullback in backlight, soldiers in silhouette with rifles still trained on unknown threats. Dust swirls in warm light; no clear victory or defeat. End on unresolved tension.",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/1-minute-cinematic-war-video-in-5-minutes-multi-shot-structure-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-049_generated_19_14269_hyper_energetic_japanese_promo_poster",
+    "slug": "hyper-energetic-japanese-promo-poster-gemini-omni-flash",
+    "title": "Hyper-Energetic Japanese Promo Poster",
+    "category": "Other Inspiration",
+    "tags": [
+      "Atlas Generated T2V"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "{ \"type\": \"Japanese promotional landing page poster\", \"style\": \"hyper-energetic, explosive typography, vibrant colors, amusement park night festival aesthetic\", \"layout\": { \"top_section\": { \"background\": \"night sky, fireworks, ferris wheel, roller coaster\", \"subjects\": \"4 young adults cheering, raising fists, dynamic lighting\", \"typography\": [ \"{argument name=\\\"main headline\\\" default=\\\"究極の楽しい!!\\\"}\", \"{argument name=\\\"sub headline\\\" default=\\\"やばい!!共感してもらいたい!!\\\"}\", \"この一枚が、あなたの人生を最高に塗り替える!!\" ], \"badges\": [ \"累計販売枚数 {argument name=\\\"sales badge\\\" default=\\\"252,000\\\"} 枚突破!!!\" ] }, \"middle_section\": { \"title\": \"究極の楽しい体験を実現する5つの超快楽ポイント\", \"points_count\": 5, \"points\": [ {\"number\": 1, \"label\": \"爆笑覚醒\", \"image\": \"people laughing\"}, {\"number\": 2, \"label\": \"ドキドキMAX\", \"image\": \"roller coaster loop\"}, {\"number\": 3, \"label\": \"感動の渦\", \"image\": \"fireworks explosion\"}, {\"number\": 4, \"label\": \"超解放ゾーン\", \"image\": \"silhouettes jumping at sunset\"}, {\"number\": 5, \"label\": \"無限リピート\", \"image\": \"group of people cheering\"} ] }, \"bonus_section\": { \"title\": \"今だけ！超豪華 5大特典付き!!!\", \"items_count\": 5, \"items\": [ \"① 限定デザインポスター\", \"② 楽しい名言ブックレット(PDF)\", \"③ 超楽しいプレイリスト(MP3)\", \"④ スマホ壁紙セット\", \"⑤ 楽しいシークレット映像\" ] }, \"bottom_section\": { \"product_info\": { \"name\": \"究極の楽しいポスター\", \"variants_count\": 3, \"variants\": [\"全力全開ver.\", \"笑顔爆発ver.\", \"感動絶頂ver.\"] }, \"pricing\": { \"label\": \"魂の価格\", \"amount\": \"{argument name=\\\"price\\\" default=\\\"¥2,980\\\"}\", \"shipping\": \"送料無料\" } }, \"footer\": { \"text\": \"{argument name=\\\"footer call to action\\\" default=\\\"人生を最高に楽しみ尽くせ!! さぁ、今すぐ手に入れろ!!\\\"}\", \"background_color\": \"magenta\" } } }",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/hyper-energetic-japanese-promo-poster-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-053_generated_23_14677_case",
+    "slug": "atlas-gemini-omni-flash",
+    "title": "可爱的四格校园社团漫画",
+    "category": "Other Inspiration",
+    "tags": [
+      "Atlas Generated T2V"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "{\"type\":\"4-panel manga comic page\",\"style\":\"clean modern Japanese school-life anime, soft pastel colors, crisp line art, light cel shading, printed manga layout with white gutters and black panel borders, cute slice-of-life atmosphere\",\"format\":\"vertical full page\",\"theme\":\"high school club meeting about what activity to do next, ending with a cheerful compromise\",\"text\":{\"title_top\":\"{argument name=\\\"headline text\\\" default=\\\"わたしたちの部活日和 🌸\\\"}\",\"ending_note\":\"おしまい\"},\"characters\":[{\"id\":\"girl1\",\"appearance\":\"short pink bob hair with a small ahoge, school uniform with cream cardigan and red ribbon, expressive and energetic\"},{\"id\":\"girl2\",\"appearance\":\"long straight navy-blue hair, calm demeanor, school uniform\"},{\"id\":\"girl3\",\"appearance\":\"short blonde bob, soft cheerful expression, school uniform with red ribbon\"},{\"id\":\"girl4\",\"appearance\":\"long purple hair in a low ponytail, composed and thoughtful, school uniform with grayish top\"}],\"layout\":{\"panels\":[{\"position\":\"top\",\"count\":1,\"setting\":\"club room table by a window, four girls seated with 4 small colorful mugs on the table\",\"speech_bubbles\":[\"部活ミーティング\",\"お菓子作りはどうですか？\",\"いいですね〜！\",\"次の部活は何をするか決めましょうか\"]},{\"position\":\"upper-middle\",\"count\":1,\"setting\":\"fantasy thought panel with pink sparkly background and floating desserts above the girls\",\"items\":{\"count\":5,\"labels\":[\"chocolate cake slice\",\"round cookies\",\"checker cookies\",\"mont blanc cupcake\",\"strawberry shortcake slice\"]},\"center_text\":\"わくわく…\",\"speech_bubbles\":[\"クッキーもいいですね！\",\"ケーキとか作ってみたいですね〜\"]},{\"position\":\"lower-middle\",\"count\":1,\"setting\":\"mood shifts to a dark blue vertical-line background showing practical concerns\",\"speech_bubbles\":[\"材料費もなかなかかかりそう…\",\"時間もかかりそうですし…\",\"部室にオーブンないですしね…\",\"うーん…\",\"はぁ〜\"]},{\"position\":\"bottom\",\"count\":1,\"setting\":\"bright warm yellow resolution panel with celebratory flower marks\",\"speech_bubbles\":[\"それがいちばん楽しそうっ!!\",\"じゃあ、みんなでお菓子を買ってお茶会にしましょう！\",\"方向転換もきらら部の得意技です♪\"]}],\"character_count\":4,\"drink_count\":4,\"dessert_count\":5,\"panel_count\":4},\"composition\":\"all four girls appear in every panel, medium group shots, readable Japanese speech bubbles, comedic pacing from suggestion to excitement to hesitation to happy conclusion\",\"quality\":\"polished manga page suitable for social media sharing or a sample of Japanese text rendering\"}",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/atlas-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-056_generated_26_14680_ai",
+    "slug": "ai-gemini-omni-flash",
+    "title": "日语 AI 编程培训横幅",
+    "category": "Other Inspiration",
+    "tags": [
+      "Atlas Generated T2V"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "Create a clean Japanese corporate training banner in a wide horizontal web-header format with a white background and deep navy blue branding. The layout is a single unified promotional banner for an AI programming course. On the left, place a small headline in bold Japanese text reading \"AIを使いこなす開発者へ\" above a very large dominant title reading \"{argument name=\"main title\" default=\"ClaudeCode研修\"}\" in heavy sans-serif dark navy lettering, with \"ClaudeCode\" especially large and the final Japanese word attached on the right in the same style. Beneath the title, add a long horizontal blue gradient bar from medium blue to very light blue containing white bold Japanese text: \"{argument name=\"subheadline text\" default=\"AI時代の開発を、あなたの武器に。\"}\". Along the bottom left, arrange exactly 3 circular navy icon badges in a horizontal row, each with a short two-line caption in Japanese to the right of the icon. Badge 1 shows a code symbol </> and the text \"Claude Codeの 基本から実践まで\". Badge 2 shows a light bulb and the text \"業務効率を高める AI活用スキル\". Badge 3 shows an upward bar chart and the text \"すぐに使える 実践的な内容\". On the right half, place a confident Japanese businessman from the waist up with arms crossed, wearing a dark navy suit, white shirt, and blue striped tie, facing forward; his face is intentionally soft-focused or anonymized. Behind him, add layered geometric navy and blue diagonal shapes sweeping in from the top right and bottom right, plus a dark blue tech-themed panel with faint code lines and a glowing curly-braces symbol {}. Use a polished B2B seminar advertisement style, crisp typography, strong negative space, subtle gradients, high contrast, and a professional AI/engineering training atmosphere.",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/ai-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-072_generated_05_1128_seedance_2_0",
+    "slug": "seedance-2-0-gemini-omni-flash",
+    "title": "迦梨女神神话写实主义视频提示词，适用于 Seedance 2.0",
+    "category": "Other Inspiration",
+    "tags": [
+      "Atlas Generated I2V"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "夜晚，雾气弥漫的印度街道。 一位身着深红色纱丽的神秘女子平静地走着。 她的影子缓缓显露出两侧的多条手臂。 她的双眼发出微弱的光芒。 她经过时，狗和动物都俯首致敬。 一道闪电揭示了她正是伪装的迦梨女神。 极致电影化的神话现实主义，神秘的氛围。",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/seedance-2-0-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-073_generated_08_1143_case",
+    "slug": "073-generated-08-1143-case-gemini-omni-flash",
+    "title": "高速魔法森林之旅",
+    "category": "Other Inspiration",
+    "tags": [
+      "Atlas Generated I2V"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "高速魔法森林之旅的高质量动态 3D 动画。一群身着华丽奇幻服装的骑手，骑乘着发光的魔法生物，包括一只发光的幽灵狼、一头闪烁的水晶雄鹿、一只巨大的幻影猫头鹰和一只幽灵豹。他们正在一个充满巨大发光水晶的迷人森林中飞驰。场景中弥漫着体积雾，光线戏剧化，魔法粒子轨迹缭绕。快速动态的摄像机运动营造出强烈的向前冲刺感。无缝视频过渡，15 秒的快节奏，以及动态的视觉序列。",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/atlas-gemini-omni-flash-2aa052319a0d9cae",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-074_generated_11_121_case",
+    "slug": "074-generated-11-121-case-gemini-omni-flash",
+    "title": "总监级运镜提示词",
+    "category": "Other Inspiration",
+    "tags": [
+      "Atlas Generated I2V"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "@Image1@Image2@Image3，一个连续的跟踪镜头，跟随一名跑者从街道跑上楼梯，穿过走廊，进入屋顶，最终俯瞰整个城市。",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/atlas-gemini-omni-flash-fb41d9e04d82cbd2",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-075_generated_12_123_case",
+    "slug": "075-generated-12-123-case-gemini-omni-flash",
+    "title": "电影级拉力赛车场景",
+    "category": "Other Inspiration",
+    "tags": [
+      "Atlas Generated I2V"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "一场电影般的赛车场景。在 2000 年代初的欧洲，下着雪，电影般的动作，一辆老式拉力赛车。",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/atlas-gemini-omni-flash-be7357ea5eb13f41",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-076_generated_14_1328_case",
+    "slug": "076-generated-14-1328-case-gemini-omni-flash",
+    "title": "邵氏风格打斗场面",
+    "category": "Other Inspiration",
+    "tags": [
+      "Atlas Generated I2V"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "创作一场两人之间的打斗场景，力求呈现邵氏电影的风格。动作应流畅而激烈，同时保持角色的一致性。",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/atlas-gemini-omni-flash-fec7474828b1b32a",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-077_generated_15_1329_case",
+    "slug": "077-generated-15-1329-case-gemini-omni-flash",
+    "title": "阿努比斯挠痒痒场景",
+    "category": "Other Inspiration",
+    "tags": [
+      "Atlas Generated I2V"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "在一个采用现代中国 3D 动画风格的场景中，强大的胡狼神阿努比斯 (Anubis) 坐在宝座上，双手抱头。一个人走向他。阿努比斯 (Anubis) 用一种随意而又无聊的语气告诉那个人，他需要让他发笑。那个人咧嘴一笑，伸手去挠阿努比斯 (Anubis) 的腋窝，这让阿努比斯 (Anubis) 看起来很困惑。镜头拉近，特写那个人在阿努比斯 (Anubis) 腋窝里摆动的手指。阿努比斯 (Anubis) 立刻咧嘴一笑，闭上眼睛，发出一声低沉、压抑的笑声，因为他怕痒。那个人继续挠阿努比斯 (Anubis) 的腋窝，阿努比斯 (Anubis) 闭着眼睛不停地咯咯笑，然后抱住自己以保护腋窝。笑了好几声后，阿努比斯 (Anubis) 告诉那个人他做得很好，可以离开了。",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/atlas-gemini-omni-flash-7d724159f3d34cea",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-078_generated_16_1336_turbulent_sea_galleon",
+    "slug": "turbulent-sea-galleon-gemini-omni-flash",
+    "title": "Turbulent Sea Galleon 电影级提示词",
+    "category": "Other Inspiration",
+    "tags": [
+      "Atlas Generated I2V"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "一轮新月发出苍白的光芒，下方是波涛汹涌的翡翠色大海。一艘雄伟的 18 世纪大帆船乘风破浪，风帆鼓动。镜头像猎鹰一样从暴风云中俯冲而下，掠过波涛汹涌的海面。船只华丽的船尾变得巨大，精美的彩色玻璃窗框住了船长室。随着船只剧烈摇晃，镜头无缝地穿过一块玻璃，进入一个出奇地平静、烛光摇曳的船舱。一只色彩斑斓的金刚鹦鹉安静地睡在一个悬挂的黄铜栖木上，未受风暴的打扰。镜头滑过这只鸟，然后无缝地穿过一个侧舷窗离开。它高高地掠过夜空，巨大的船只在水面上缩小成一个玩具。海浪拍打的声音逐渐消失，归于寂静。",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/turbulent-sea-galleon-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-079_generated_17_134_case",
+    "slug": "079-generated-17-134-case-gemini-omni-flash",
+    "title": "赛博朋克电影：夜间追逐与武士刀格斗",
+    "category": "Other Inspiration",
+    "tags": [
+      "Atlas Generated I2V"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "她施展着最令人惊叹的功夫。她用马其顿口音大喊：“这是 See dance 2.0，只用第一帧。”赛博朋克东京雨夜的电影式追逐：一辆哑光黑色的 Nissan GT-R Nismo 以 200 公里/小时的速度在湿漉漉的霓虹街道上疾驰，轮胎溅起水花，车头灯划破瓢泼大雨。Cherry Blackcloud（20 岁，马其顿人特征，乌黑的高马尾辫甩动，齐刘海，赛博格冰蓝色右眼发光）驾驶风格激进——黑色 McQueen 皮夹克完全拉链，直接穿在裸露的皮肤上，短款黑色皮裙，银色拉链清晰可见，双腿裸露，脚踩厚重的黑色厚底靴，放在踏板上，武士刀绑在乘客座位上。镜头开始是 GT-R 旁边的广角跟踪镜头，然后快速推入，穿过雨水模糊的挡风玻璃，特写 Cherry 专注的脸（左眼深棕色燃烧，右眼发出青色光芒）。她瞥了一眼后视镜——追击的无人机带着红色激光逼近。Cherry（浓重的马其顿口音，低沉而威严，盖过引擎轰鸣声）：“他们以为能把我困住。”她猛地降档，GT-R 车尾甩动，然后完美地完成 180 度漂移——轮胎尖叫，水花四溅。武士刀刀柄在青色仪表盘的微光中闪烁。她伸手过去，在漂移中抓住武士刀，侧滑时打开驾驶员车门，探出身子进入雨中，划出一道精确的弧线——武士刀刀刃发出青色光芒，在火花和熔融金属的飞溅中将领头无人机一分为二。Cherry（嘲讽地笑，声音穿透风雨）：“今天不行。”她猛地关上车门，踩下油门——GT-R 疾驰向前，霓虹灯的倒影在湿漉漉的黑色车漆上划过。镜头快速拉回广角：汽车消失在雨夜中，无人机在身后爆炸成橙色火球。最后一帧：Cherry 的赛博眼闪烁了一下，她消失在拐角处。渐隐至黑。Seedance 2.0 的风格与技术说明：电影级写实好莱坞动作大片风格，ARRI Alexa 电影级画面，青橙色调，逼真的大雨，雨滴和黑色汽车及皮革上的湿润反光，高动态范围，60fps，霓虹灯和爆炸产生的戏剧性变形镜头光晕，细微的胶片颗粒，无伪影，激烈的实景特技编排，动态摄影（跟踪、推入、180 度漂移展示、快速拉回）。",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/atlas-gemini-omni-flash-c19034a9c43240d8",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-080_generated_18_1342_case",
+    "slug": "080-generated-18-1342-case-gemini-omni-flash",
+    "title": "星际巡洋舰追逐与零重力内部场景",
+    "category": "Other Inspiration",
+    "tags": [
+      "Atlas Generated I2V"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "一片充满活力的星际全景，由旋转的紫色星云构成画框。一艘流线型的银色星际巡洋舰在宇宙虚空中悄无声息地航行。镜头以光速向前冲刺，迅速超越了飞船。巡洋舰发光的几何结构变得巨大，一扇全景观测窗映入眼帘。镜头与飞船的惊人速度同步，无缝穿过透明铝材。在宁静的零重力休息室里，一个小孩在半空中漂浮，在环境星光下用数字平板电脑轻轻描绘着。镜头飘过小孩，穿过对面的观景窗。它向上掠过，展现出飞船在群星映衬下逐渐缩小的宏伟规模。一声深沉的次低音嗡鸣声逐渐消失，归于寂静。",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/atlas-gemini-omni-flash-99b48e8ed45ab1d9",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-081_generated_19_138_case",
+    "slug": "081-generated-19-138-case-gemini-omni-flash",
+    "title": "多角色机舱对话场景",
+    "category": "Other Inspiration",
+    "tags": [
+      "Atlas Generated I2V"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "【@Image 1】中的数字代表行号。这些数字仅供参考，应在视频中删除。所有参考内容必须 100% 保留其艺术风格和角色特征。 不同艺术风格的角色走进来，各自就座。 【@Image 2】坐在第 1 排的左边座位上，她高兴地说：“我的座位是 1A。” 【@Image 3】坐在第 2 排的右边座位上，她用日语伤心地说：“我的座位是 2C。” 【@Image 4】坐在第 3 排的右边座位上，她用普通话害怕地说：“我的座位是 3B。” 【@Image 5】坐在第 4 排的左边座位上，她用西班牙语生气地说：“我的座位是 4D。” 【@Image 6】坐在第 5 排的左边座位上，她用粤语厌恶地说：“我的座位是 5A。” 【@Image 7】坐在第 6 排的右边座位上，她用韩语疯狂地喊道：“我的座位是 6D。” 固定机位。一个连续镜头，角色们依次走进来并入座。",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/atlas-gemini-omni-flash-f851e6637af20429",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-084_generated_01_1386_aurora_fizz",
+    "slug": "aurora-fizz-gemini-omni-flash",
+    "title": "高端商业广告：AURORA FIZZ",
+    "category": "Other Inspiration",
+    "tags": [
+      "Atlas Generated I2V"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "高端商业广告 — AURORA FIZZ 00: 00 – 00: 02 | 闪电登场 动作： AURORA FIZZ 罐身从上方飞入画面，沿垂直轴快速旋转。 视觉效果： 锐利的动态模糊。金色柑橘图案化作璀璨的光线。 罐身精准地停在画面中央 — 标签完美朝向镜头。 00: 02 – 00: 04 | 爆裂揭示 动作： 罐身分解成三个水平部分（顶部环、核心主体、底部环）。 视觉效果： 发出清脆的嘶嘶声。冰冷的蒸汽向外溢出。 在浮动的罐身段之间，鲜艳的柠檬和青柠切片凭空出现 — 伴随着凭空形成的闪亮气泡。 00: 04 – 00: 07 | 气泡升腾时刻 动作： 时间凝固 — 悬浮的优雅。 视觉效果： 柑橘切片在失重状态下缓慢旋转，气泡流在无形的液体空间中向上升腾。 镜头以流畅的电影运镜轨道滑过。 亮点在冷凝水珠上闪烁 — 每个气泡都像钻石一样捕捉着光线。 00: 07 – 00: 08 | 能量封存 动作： 罐身像磁铁般瞬间合拢。 视觉效果： 发出清脆的“噗嗤”声。 柑橘和气泡瞬间被封存在内。 一股清新的雾气脉冲向外散发。 00: 08 – 00: 10 | 清爽退场 动作： 罐身旋转至最高速度，向上飞出画面。 视觉效果： 背景变为明亮清爽的渐变色 — 准备无缝循环。",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/aurora-fizz-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-085_generated_02_1390_case",
+    "slug": "085-generated-02-1390-case-gemini-omni-flash",
+    "title": "惊涛骇浪中的沉船电影场景",
+    "category": "Other Inspiration",
+    "tags": [
+      "Atlas Generated I2V"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "第一人称视角：船只在波涛汹涌的海面上颠簸；切至：船长在舵前神情紧张的特写；切至：船长双手掌舵的特写；切至：船只独自在波涛汹涌的海面上航行的远景，航向正在缓慢改变。切至：甲板上惊恐的人们紧抓栏杆，尖叫着，中景镜头。切至：桅杆吱呀作响，随后突然一声脆响，猛地断裂；切至：船体撞上礁石，灾难性地断裂的侧视图。随着船只解体，船员们因惯性被抛向空中，坠入大海。",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/atlas-gemini-omni-flash-63c876e0adff727f",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-086_generated_03_1391_bmx",
+    "slug": "bmx-gemini-omni-flash",
+    "title": "贫民窟里的 BMX 骑手",
+    "category": "Other Inspiration",
+    "tags": [
+      "Atlas Generated I2V"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "一位二十多岁的巴西裔女性，深色卷发被一顶结构化的白色渔夫帽束起，身穿配套的超大黑色工装夹克、宽松的黑色长裤和厚实的白色靴子，骑着一辆亮铬色的 BMX 自行车穿梭于一个由狭窄石巷和彩绘墙壁构成的密集贫民窟式山坡社区。在 2 秒处，她骑上了一段楼梯，在十次连续的轮胎触地中爬上了六十级石阶，其节奏感通过摄像机抖动清晰可见，她的身体以熟练的轻松姿态吸收着冲击。到达顶部后，她立即沿着彩绘墙面进行了一次贴墙骑行，车轮垂直地在壁画上运行，下方宽阔的镜头中可见楼梯。摄像机在攀爬过程中从下方追逐，然后切换到侧面固定角度拍摄贴墙骑行，壁画的色彩在高速中变得模糊。她从贴墙骑行过渡到两个屋顶之间的空隙，高速越过，并继续下降，摄像机从上方捕捉到铬色自行车穿梭于小巷几何结构中的画面。深勃艮第色、铬色 BMX、彩绘贫民窟墙壁、楼梯垂直攀爬、爬楼节奏、壁画贴墙骑行、屋顶间隙过渡、山坡下降航拍、电影颗粒感、4K。",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/bmx-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-087_generated_04_1392_case",
+    "slug": "087-generated-04-1392-case-gemini-omni-flash",
+    "title": "乐高探险家被北极熊追赶",
+    "category": "Other Inspiration",
+    "tags": [
+      "Atlas Generated I2V"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "乐高探险家小人仔驾驶迷你雪地摩托车，在冰天雪地中飞驰，身后一头巨大的咆哮北极熊紧追不舍，雪花戏剧性地飞溅，空气中弥漫着冰冷的薄雾，强烈的电影背光，动态倾斜的镜头，大片动作风格，夸张的漫画式动感，清晰的乐高塑料质感，戏剧性的冷色调。",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/atlas-gemini-omni-flash-d2f95c359d34bdbf",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-088_generated_05_1396_seedance_2_0-2",
+    "slug": "seedance-2-0-2-gemini-omni-flash",
+    "title": "Seedance 2.0 提示词，用于幽默动漫场景",
+    "category": "Other Inspiration",
+    "tags": [
+      "Atlas Generated I2V"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "创作一个动漫场景：一条肌肉发达的巨龙高耸地立在人类骑士面前，威胁性地看着他。骑士掏出一把鸡毛掸子，挠巨龙的肚子。巨龙怕痒，立刻用低沉的声音大声咯咯笑起来。场景结束时，骑士正用鸡毛掸子挠着巨龙的肚子，巨龙则咧着傻傻的大嘴咯咯笑着。",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/seedance-2-0-gemini-omni-flash-914e9b5612a71c48",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-089_generated_06_142_case",
+    "slug": "089-generated-06-142-case-gemini-omni-flash",
+    "title": "逃离巨型怪物（奥术风格）",
+    "category": "Other Inspiration",
+    "tags": [
+      "Atlas Generated I2V"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "生成一个关于跑步场景的视频，身后是一个像 100 层楼高的巨型怪物正在逼近，使用奥术风格。",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/atlas-gemini-omni-flash-ff747458f3b2ad20",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-090_generated_07_1470_case",
+    "slug": "090-generated-07-1470-case-gemini-omni-flash",
+    "title": "未来感十足的兰博基尼组装商业广告提示",
+    "category": "Other Inspiration",
+    "tags": [
+      "Atlas Generated I2V"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "在一个黑暗、光亮的数字展厅内，上演着一场史诗般的未来汽车组装序列。一辆白色的高性能兰博基尼开始在一个反光的黑色舞台中央成形。环境极简、整洁且富有戏剧性，强劲的聚光灯穿透黑暗，映照在抛光的地面上。 序列始于发光的机械部件在空中漂浮的特写镜头。发动机部件首先出现，活塞和齿轮缓慢旋转，仿佛悬浮在零重力状态。每个部件都平稳地移动到位，发出精确的机械咔嗒声连接在一起。变速器部件滑入，电子设备亮起柔和的蓝色能量，发光的电缆穿过底盘。 随着更多部件的组装，摄像机缓慢地围绕着结构移动。碳纤维车身面板下降并与车架完美对齐。车轮轻轻旋转，然后锁定在车轴上。仪表盘灯亮起，显示出优雅的数字显示。 明亮的闪光标志着每个连接的完成。当车辆成形时，微妙的全息网格和 UI 线条短暂出现。灯光强调了光亮的白色表面和锐利的空气动力学曲线。 当最后一块面板锁定到位时，前灯发出强大的白色光芒。发动机启动，发出深沉、电影般的轰鸣声。 摄像机后拉，开始围绕已完成的兰博基尼进行平稳的 360 度环绕拍摄，在戏剧性的灯光下展现出整辆车。反射在地面上荡漾，光束扫过车身，突显出每一个轮廓。 电影级灯光，时尚的产品展示，高对比度反射，未来主义氛围，超详细的机械组装，史诗般的揭示，戏剧性的摄像机运动，高端汽车广告风格。",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/atlas-gemini-omni-flash-360f90d46430157d",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-091_generated_08_1478_case",
+    "slug": "091-generated-08-1478-case-gemini-omni-flash",
+    "title": "巨龙围攻古堡",
+    "category": "Other Inspiration",
+    "tags": [
+      "Atlas Generated I2V"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "一座古老的石头城堡坐落在山崖上，乌云密布，一条巨龙在上方盘旋。 巨龙俯冲向城堡，喷吐着熊熊烈火，士兵们则万箭齐发，投石机也发射出燃烧的投射物。 从城堡的低角度拍摄。",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/atlas-gemini-omni-flash-80339978b3d57e79",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-092_generated_09_1537_seedance_2_0-3",
+    "slug": "seedance-2-0-3-gemini-omni-flash",
+    "title": "Seedance 2.0 低空飞行器飞行视频提示",
+    "category": "Other Inspiration",
+    "tags": [
+      "Atlas Generated I2V"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "第一人称视角驾驶小型飞机低空飞行，掠过山脉、森林或海岸线——强烈的风噪声和沉浸式视觉体验，快速向前移动的镜头，动态的镜头运动，戏剧性的逆光金色光线，电影级的色彩分级，紧张刺激的氛围，超流畅的运动，4K 分辨率，高度细节，无文字叠加。",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/seedance-2-0-gemini-omni-flash-b6367b9f4cfd530d",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-093_generated_10_1550_case",
+    "slug": "093-generated-10-1550-case-gemini-omni-flash",
+    "title": "暖心森林喜剧视频提示",
+    "category": "Other Inspiration",
+    "tags": [
+      "Atlas Generated I2V"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "格式：15 秒 / 6 镜头 / 暖心森林喜剧 / 简短对话 风格：超现实电影级森林动画，温暖的金色夕阳透过树皮裂缝洒下，树洞内长满苔藓，温馨舒适",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/atlas-gemini-omni-flash-f6a8980aaee6aa49",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-094_generated_11_160_case",
+    "slug": "094-generated-11-160-case-gemini-omni-flash",
+    "title": "马赛村庄的混乱",
+    "category": "Other Inspiration",
+    "tags": [
+      "Atlas Generated I2V"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "一只身披盔甲的巨大狒狒冲过一个燃烧的马赛村庄，它抓起一名马赛战士，将其扔进一间着火的茅屋，马赛战士们在一片火海和废墟中惊恐地四散奔逃。",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/atlas-gemini-omni-flash-0eb2455b5693fde1",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-095_generated_12_1633_case",
+    "slug": "095-generated-12-1633-case-gemini-omni-flash",
+    "title": "重庆的哥斯拉巨型白虎斑猫",
+    "category": "Other Inspiration",
+    "tags": [
+      "Atlas Generated I2V"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "【风格】伪纪录片，手机 Vlog 视角，超现实 CG 结合真实场景，8K 画质，完美的毛发物理模拟。 【时长】15 秒 【场景】重庆洪崖洞或繁忙的立交桥路口（具有魔幻 8D 城市感）。 [00:00-00:05] 镜头 1：视觉奇观（揭示）。 画面显示一条熙熙攘攘的城市街道。镜头抬升，展现一只**哥斯拉大小的白色虎斑猫**卡在两栋摩天大楼之间。 动作：巨猫因为太胖被卡住，可怜地挥舞着巨大的爪子，试图把自己拔出来。 细节：阳光下猫的毛发清晰可见，巨大的肉垫压在玻璃幕墙上，使玻璃变形。 [000:05-00:10] 镜头 2：荒诞互动（互动）。 镜头切换到地面视角。街道上车流不息，红绿灯闪烁。巨猫低下头，巨大的猫脸凑近地面，好奇地嗅着一辆等红灯的公交车。 动作：公交车司机平静地伸出手，抚摸着巨猫的鼻子。猫打了个喷嚏，瞬间吹走了路边的树叶和行人的帽子（风力效果）。 [00:10-00:15] 镜头 3：模因式结局（点睛之笔）。 巨猫终于挤过建筑物，坐到一座跨江大桥上，导致桥面轻微下沉（物理反馈）。 叙事感：它懒洋洋地躺下，开始梳理毛发，堵塞了整个晚高峰交通。镜头最终定格在它无辜的大眼睛上。",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/atlas-gemini-omni-flash-e07282a5d6ef2381",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-096_generated_13_1707_case",
+    "slug": "096-generated-13-1707-case-gemini-omni-flash",
+    "title": "持续一镜到底的灾难片写实主义",
+    "category": "Other Inspiration",
+    "tags": [
+      "Atlas Generated I2V"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "一位身穿橙色救生衣的孤独急救技术员，站在被洪水淹没的欧洲首都一座博物馆的破碎屋顶上，头顶乌云密布，下方是破碎的雕像和漂浮的碎片，冷峻的蓝灰色调，电影般的灾难写实主义，湿漉漉的表面，强烈的比例感，35 毫米胶片质感。灾难片写实主义，一镜到底。镜头从被洪水淹没的首都上空狂暴的风暴天气中开始，然后俯冲向站在被洪水淹没的博物馆破碎屋顶上的孤独急救技术员。他看到远处有一枚救援信号弹，然后开始奔跑。镜头紧随其后，他冲过坍塌的屋顶，跳过破碎的天窗，滑下一个倾斜的玻璃穹顶，抓住一根摇晃的缆绳。下方，黑暗的洪水在布满漂浮汽车和雕像的街道中汹涌。他落在部分被淹没的有轨电车车顶上，继续前进，就在一个巨浪在他身后拍打而过时，他到达了一个救援信标平台。冷峻的灰蓝色末日色调，超现实的水物理效果，风，水花，手持镜头的紧迫感，一镜到底，无剪辑。",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/atlas-gemini-omni-flash-ca3da55d2c945ff5",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-097_generated_14_1709_case",
+    "slug": "097-generated-14-1709-case-gemini-omni-flash",
+    "title": "充满活力的橙味汽水广告拍摄",
+    "category": "Other Inspiration",
+    "tags": [
+      "Atlas Generated I2V"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "一个充满活力的橙色汽水罐，周围环绕着飞溅的柑橘切片和闪闪发光的水滴，慢动作呈现，明亮而充满活力的灯光，高细节商业摄影。",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/atlas-gemini-omni-flash-a495bcf9cdb4b817",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-098_generated_15_1720_seedance_2_0-4",
+    "slug": "seedance-2-0-4-gemini-omni-flash",
+    "title": "Seedance 2.0 全球女性通用机甲变身视频提示词",
+    "category": "Other Inspiration",
+    "tags": [
+      "Atlas Generated I2V"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "核心场景提示词 @94d74b42-17ec-45d3-ab60-487c3a1700cb 12 秒内完成 10 套全球女性盔甲变身。全程无眼镜，全盔甲头盔 + 武器，纯女性将军造型。所有转场均包含发光粒子特效。风格统一为高端、写实、震撼。按时间段划分的场景： 0-1 秒：中国红金明光铠 + 鎏金战盔，手持鎏金长矛，抬手抚摸肩上神兽，金色铠甲流光溢彩，身姿挺拔，东方战神女将气场全开。 1-2 秒：日本战国女武士铠甲 + 鹿角胴丸头盔，手持武士刀，转身甩动披风扫过镜头，层叠铠甲片精致，冷冽锋芒，杀气十足。 2-3 秒：欧洲中世纪女骑士全身板甲 + 十字面罩头盔，手持骑士长剑，手掌遮挡镜头并移开完成变身，银色铠甲泛着冷光，庄严而有力。 3-4 秒：古罗马女指挥官肌肉胸甲 + 红色羽毛军团头盔，手持短剑和圆盾，双臂合拢完成变身，金属肩甲和披风飞扬，威武、果断、极具统帅力。 4-5 秒：北欧维京女战士毛皮与铁甲 + 符文战盔，手持战斧和圆盾，低头调整护腕后抬头完成变身，狂野、冷峻、气势逼人。 5-6 秒：波斯萨珊风格女将军鱼鳞甲 + 珠宝链甲王冠，手持弯刀，转身回正完成变身，铠甲表面细腻奢华，兼具异域王族与将军气质。 6-7 秒：蒙古草原女战士皮甲与铁片甲 + 羽毛战盔，手持复合弓箭，轻触额头盔甲完成变身，动作迅捷利落，英武而机动。 7-8 秒：印度王朝女战士鎏金纹饰铠甲 + 珠串王冠战盔，手持长矛，轻抚披风下摆完成变身，华丽而神秘，高贵却不失武者之魂。 8-9 秒：阿拉伯女指挥官月纹链甲 + 面纱金属头饰，手持新月弯刀，手掌遮挡镜头并移开完成变身，神秘、高贵、眼神锐利，异域史诗感极强。 9-10 秒：斯巴达女战士青铜铠甲 + 马鬃头盔，手持长矛和圆盾，甩动披风遮挡身体完成变身，身姿挺拔，力量感爆发，战场存在感十足。 10-11 秒：幻想帝国女王重甲 + 王冠式龙纹头盔，手持皇家巨剑，侧身遮挡镜头完成变身，黑金重甲层叠，如同终极女王降临。 11-12 秒：转身甩动披风，最终回到中国红金明光铠 + 鎏金战盔 + 鎏金长矛，金光爆发中定格，镜头凝固，东方战神女将最终封神。",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/seedance-2-0-gemini-omni-flash-48e73c9429ce4d14",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-099_generated_16_1768_case",
+    "slug": "099-generated-16-1768-case-gemini-omni-flash",
+    "title": "办公室神龙",
+    "category": "Other Inspiration",
+    "tags": [
+      "Atlas Generated I2V"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "快速剪辑：一条超逼真的“办公室巨龙”在多个办公室房间里高速飞过，穿梭于人群之间、越过办公桌、绕着人们，在一个繁忙的格子间办公室里。它降落在一个人面前的桌子上，向那名男子喷射火焰。巨龙说：“你被解雇了。”",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/atlas-gemini-omni-flash-492d3f5ad4ad95dc",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-100_generated_17_1775_case",
+    "slug": "100-generated-17-1775-case-gemini-omni-flash",
+    "title": "斋月至开斋节无限缩放超延时摄影",
+    "category": "Other Inspiration",
+    "tags": [
+      "Atlas Generated I2V"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "通过高度精细的剪纸艺术，无缝无限变焦超延时摄影，捕捉从斋月到开斋节庆祝的旅程。场景始于封斋饭时间，宁静的街区上空悬挂着一轮皎洁的弯月，柔和的灯笼光影摇曳。镜头拉近一扇屋窗，一家人正在准备封斋饭，随后平稳过渡到快节奏的日常斋戒时刻超延时摄影——人们工作、祈祷，等待开斋。 镜头继续拉近，日落时分，街道上挤满了小吃摊贩和人群，随后过渡到混乱的开斋节返乡车流（mudik），拥挤的汽车和摩托车以动态超延时摄影的方式移动。 镜头拉近一扇车窗，过渡到宁静的乡村景象（kampung），孩子们玩耍，人们为开斋节做准备。镜头继续拉近一座清真寺，人们在日出时分在开阔的田野上进行开斋节祈祷（sholat Ied）。 镜头无缝拉近握手瞬间，过渡到充满情感的家庭团聚，伴随着“maaf-maafan”（互相请求原谅）。镜头继续拉近一张摆满了马来粽（ketupat）、椰浆鸡（opor ayam）和传统菜肴的餐桌，大家庭欢聚一堂，其乐融融地用餐。 最后，镜头拉近一个马来粽，然后过渡回天空中的弯月，完成整个循环。手剪纸纹理、分层深度、柔和阴影、鲜艳的节日色彩、流畅的无限过渡、电影级灯光、超高细节，15 秒。",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/atlas-gemini-omni-flash-7b8757dd773f90ba",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-101_generated_18_1776_case",
+    "slug": "101-generated-18-1776-case-gemini-omni-flash",
+    "title": "怒海狂龙",
+    "category": "Other Inspiration",
+    "tags": [
+      "Atlas Generated I2V"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "一头狂暴的红色巨龙（元素）从海中腾空而起，以极快的速度在船上方盘旋飞舞，激起巨大的海浪。 动态镜头跟随巨龙穿过风暴，在巨浪中翻腾远去。",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/atlas-gemini-omni-flash-160f170af07301b1",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-102_generated_19_1777_case",
+    "slug": "102-generated-19-1777-case-gemini-omni-flash",
+    "title": "女性角色装甲组装与飞行",
+    "category": "Other Inspiration",
+    "tags": [
+      "Atlas Generated I2V"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "镜头 1（8 秒）一位强大的女性角色。电影级广角镜头，她翱翔在金黄色云海之上，夕阳的暖橙色光线映照着薄雾，场面壮观而富有戏剧性。风吹拂着她的头发和衣物，展现出高度的物理真实感。来自四面八方的未来感十足的流线型机械装甲部件——胸甲、肩甲、臂铠、腿甲和一顶发光的头盔——高速飞来，拖曳着鲜艳的光迹和青色的引擎尾气。每个部件都以令人满意的机械精度和可见的惯性，逐一磁性吸附并锁定在她的身体上，镀铬和哑光碳纤维表面反射着金色的阳光。随着组装完成，摄像机动态地围绕她旋转，最终以特写镜头结束，一个数字面罩在她脸上滑下，她的眼睛闪烁着蓝色能量，蓄势待发，释放出一道光波，将周围的云层冲散。高保真纹理、金属上的微小划痕、逼真的运动模糊和电影般的镜头光晕。 镜头 2（4 秒）角色继续飞行，穿梭于云层之中，她全新的未来战衣散发着内在的能量光芒。摄像机保持低角度的英雄视角，捕捉装甲板之间复杂的接触阴影。她突破音障时，冰晶和尘埃粒子在她身后拖曳，天空从金色变为深邃的暮光紫色。风阻对战衣坚硬表面的真实物理效果清晰可见。最后一个镜头是她的手伸向太阳，能量涟漪在臂铠上荡漾。",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/atlas-gemini-omni-flash-d951b024b2a96fd6",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-omni_012",
+    "slug": "violinist-over-the-shoulder-angle-gemini-omni-flash",
+    "title": "Violinist: Over-the-Shoulder Angle",
+    "category": "Other Inspiration",
+    "tags": [
+      "Camera & Perspective"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "Change the camera angle to be over the violinist's shoulder.",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/violinist-over-the-shoulder-angle-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-omni_017",
+    "slug": "building-lights-prompt-guide-variant-gemini-omni-flash",
+    "title": "Building Lights Prompt Guide Variant",
+    "category": "Other Inspiration",
+    "tags": [
+      "Action & Motion"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "The lights of the buildings start turning on in sync with the music.",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/building-lights-prompt-guide-variant-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-x_2065002571148779843",
+    "slug": "ai-soccer-graphics-comparison-gemini-omni-flash",
+    "title": "AI Soccer Graphics Comparison",
+    "category": "Other Inspiration",
+    "tags": [
+      "Twitter Community"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "four panels comparing AI-generated soccer game graphics from Kling 3.0, Gemini Omni Flash, Grok Imagine, and Seedance 2.0, each showing a different player in action on a stadium field with crowd and lighting effects",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/ai-soccer-graphics-comparison-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-x_2065139364603277645",
+    "slug": "woman-with-balloons-at-colosseum-gemini-omni-flash",
+    "title": "Woman with balloons at Colosseum",
+    "category": "Other Inspiration",
+    "tags": [
+      "Twitter Community"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "a woman in a flowing lavender tulle gown holding a large cluster of purple marbled balloons, standing in front of the Colosseum at sunset, cinematic lighting, photorealistic, 8k",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/woman-with-balloons-at-colosseum-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-x_2065141110071230593",
+    "slug": "ben-10-live-action-movie-concept-gemini-omni-flash",
+    "title": "Ben 10 Live Action Movie Concept",
+    "category": "Other Inspiration",
+    "tags": [
+      "Twitter Community"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "What if Ben 10 had a live action movie",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/ben-10-live-action-movie-concept-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-x_2065165520031141976",
+    "slug": "sheikh-omar-khan-profile-gemini-omni-flash",
+    "title": "Sheikh Omar Khan Profile",
+    "category": "Other Inspiration",
+    "tags": [
+      "Twitter Community"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "a screenshot of a social media profile page with a dark theme, showing a user named Sheikh Omar Khan, with posts, followers, and a dashboard displaying 8.4K views in the last 30 days, featuring images of a man in traditional Middle Eastern attire in luxurious settings like a private jet, yacht, and mansion, with app download links and promotional text about becoming wealthy",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/sheikh-omar-khan-profile-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-x_2065184436929311017",
+    "slug": "crown-ceremony-in-cathedral-gemini-omni-flash",
+    "title": "Crown ceremony in cathedral",
+    "category": "Other Inspiration",
+    "tags": [
+      "Twitter Community"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "a dramatic scene in a medieval cathedral with a man in a red robe holding a crown, another man in a fur-lined robe standing nearby, and onlookers in period clothing, cinematic lighting, high detail",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/crown-ceremony-in-cathedral-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-x_2065270532384100531",
+    "slug": "glowing-green-capsule-gemini-omni-flash",
+    "title": "glowing green capsule",
+    "category": "Other Inspiration",
+    "tags": [
+      "Twitter Community"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "a glowing green capsule floating in a soft-focus green background, smooth and translucent with light reflections",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/glowing-green-capsule-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-x_2065463168277631272",
+    "slug": "vintage-film-scratch-gemini-omni-flash",
+    "title": "Vintage film scratch",
+    "category": "Other Inspiration",
+    "tags": [
+      "Twitter Community"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "grainy black and white film frame with scratches and a curved line, vintage film effect",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/vintage-film-scratch-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-x_2065468953846046924",
+    "slug": "retro-gaming-room-gemini-omni-flash",
+    "title": "Retro Gaming Room",
+    "category": "Other Inspiration",
+    "tags": [
+      "Twitter Community"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "a retro gaming room with a vintage computer, lava lamp, posters, and a cat, with a black and white circular portrait of a woman on the right",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/retro-gaming-room-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-x_2065470220253135360",
+    "slug": "fashion-model-rapid-attire-changes-gemini-omni-flash",
+    "title": "Fashion Model Rapid Attire Changes",
+    "category": "Other Inspiration",
+    "tags": [
+      "Twitter Community"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "A fashion model switches attires with a snap of a finger — 20 styles in 10 seconds, hard cuts",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/fashion-model-rapid-attire-changes-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-x_2065481224114897095",
+    "slug": "vintage-camera-portrait-gemini-omni-flash",
+    "title": "Vintage Camera Portrait",
+    "category": "Other Inspiration",
+    "tags": [
+      "Twitter Community"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "a vintage wooden large format camera with brass lens and bellows, mounted on a tripod, studio lighting, detailed texture, realistic rendering",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/vintage-camera-portrait-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-x_2065483057537204407",
+    "slug": "gemini-omni-video-tool-gemini-omni-flash",
+    "title": "Gemini Omni Video Tool",
+    "category": "Other Inspiration",
+    "tags": [
+      "Twitter Community"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "dark futuristic interface with grid overlay, glowing text 'Gemini Omni turns inputs into video', multiple screen panels showing AI media content, tech-themed design, neon green accents, sleek modern UI, digital display elements",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/gemini-omni-video-tool-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-x_2065501950271979617",
+    "slug": "math-professor-teaching-gemini-omni-flash",
+    "title": "Math professor teaching",
+    "category": "Other Inspiration",
+    "tags": [
+      "Twitter Community"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "a man in a suit writing mathematical equations on a chalkboard, realistic classroom setting, detailed facial features, natural lighting",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/math-professor-teaching-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-x_2065509879138173373",
+    "slug": "welcome-back-graphic-gemini-omni-flash",
+    "title": "Welcome back graphic",
+    "category": "Other Inspiration",
+    "tags": [
+      "Twitter Community"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "Welcome back text with a colorful gradient diamond shape overlapping the word 'welcome', on a white background",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/welcome-back-graphic-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-x_2065510479334691100",
+    "slug": "peacock-material-transformations-gemini-omni-flash",
+    "title": "Peacock Material Transformations",
+    "category": "Other Inspiration",
+    "tags": [
+      "Twitter Community"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "A peacock made of different materials: real feathers, recycled paper tickets, inflatable plastic, and glass with fish inside, all in a forest background",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/peacock-material-transformations-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-x_2065539761876672840",
+    "slug": "video-editing-software-interface-gemini-omni-flash",
+    "title": "Video Editing Software Interface",
+    "category": "Other Inspiration",
+    "tags": [
+      "Twitter Community"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "A dark-themed video editing software interface with a central upload area showing a teddy bear in a car, a man's face in a circular frame on the right, and feature options below, all with a green border and modern UI design.",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/video-editing-software-interface-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-x_2065582038183186504",
+    "slug": "globalgpt-ai-tools-gemini-omni-flash",
+    "title": "GlobalGPT AI Tools",
+    "category": "Other Inspiration",
+    "tags": [
+      "Twitter Community"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "A screenshot of the GlobalGPT website homepage with a colorful abstract background, showing AI tools like GPT-5.5, Claude Opus, and Gemini 3.1 Pro, with a banner celebrating 2 years and offering 50% off, displayed on a computer screen.",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/globalgpt-ai-tools-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-x_2065584046025970040",
+    "slug": "puffer-jacket-models-gemini-omni-flash",
+    "title": "Puffer Jacket Models",
+    "category": "Other Inspiration",
+    "tags": [
+      "Twitter Community"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "a model wearing a black puffer jacket on a dark background, and the same model wearing a red puffer jacket on a white background, high fashion photography, dramatic lighting, studio shot",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/puffer-jacket-models-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-x_2065584838707470637",
+    "slug": "avant-garde-fashion-banger-gemini-omni-flash",
+    "title": "Avant-garde fashion banger",
+    "category": "Other Inspiration",
+    "tags": [
+      "Twitter Community"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "High-octane avant-garde fashion banger, 12s. Absolute musical silence. Audio track is strictly raw high-fidelity A SMR: aggressive fabric cracks, heavy wind swooshes, and bone-dry finger snaps acting as audio impact triggers. No music. Model & Attitude: One consistent female model with fierce runway aggression, immense charisma, and sharp, high-energy poses. She dominates the camera. Every single finger snap triggers an explosive camera shake, heavy directional motion blur, and a violent whip-pan hard cut. The Eclectic Visual Shatter (Cinematic Transitions): * Scene 1: Medium shot. Hyper-bright overexposed white studio. Model in a high-gloss crimson red puffer jacket, delivering a fierce, fast-paced performance. Instant violent snap cut. * Scene 2: Dynamic low-angle shot. Deep Rembrandt chiaroscuro lighting. Model in an ornate emerald green velvet Baroque gown, spinning with high velocity, canvas textures flying. * Scene 3: Extreme wide-to-macro camera push. Surreal open-air liquid mercury desert under a shifting chrome sky. Model in a fluid chrome dress, completely locked in a high-fashion frozen pose while the camera orbits aggressively around her. * Scene 4: Saccadic close-up tracking. High-tech Y3K sanctuary, deep cobalt blue grading. Model wears an armored body suit sculpted by volumetric laser beams, shifting geometric poses at stroboscopic speed. Cinematography: Hyper-aggressive camera tracking, intense lens pushes, sudden 90-degree Dutch angles, flawless facial continuity. 8k resolution, raw visual adrenaline, pure scroll-stopper.",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/avant-garde-fashion-banger-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-x_2065629018297442346",
+    "slug": "hacker-and-accomplice-gemini-omni-flash",
+    "title": "Hacker and accomplice",
+    "category": "Other Inspiration",
+    "tags": [
+      "Twitter Community"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "a man in a black hoodie and mask with glowing blue eyes typing on a laptop, a blonde woman standing beside him looking at the screen, rainy window in background, cinematic lighting, dramatic atmosphere",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/hacker-and-accomplice-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-x_2065767365351194802",
+    "slug": "person-using-smartphone-gemini-omni-flash",
+    "title": "person using smartphone",
+    "category": "Other Inspiration",
+    "tags": [
+      "Twitter Community"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "a close-up of hands holding a smartphone displaying a social media video, realistic lighting, detailed skin texture, modern phone design, indoor setting",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/person-using-smartphone-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-x_2065770210943279406",
+    "slug": "chevrolet-transforming-toy-gemini-omni-flash",
+    "title": "Chevrolet transforming toy",
+    "category": "Other Inspiration",
+    "tags": [
+      "Twitter Community"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "a black cube-shaped toy car with Chevrolet logo being held and manipulated by hands, transforming from a cube to a car shape, realistic lighting, high detail, product photography",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/chevrolet-transforming-toy-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-x_2065772170299707809",
+    "slug": "banana-peel-yoga-asanas-grid-gemini-omni-flash",
+    "title": "Banana Peel Yoga Asanas Grid",
+    "category": "Other Inspiration",
+    "tags": [
+      "Twitter Community"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "A 2x2 grid of different yoga asanas created from arranged banana peels and fruit Structure: [Panel: RANDOM yoga pose; banana peel limb positions, fruit body segments, peel flexibility showing stretch, brown",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/banana-peel-yoga-asanas-grid-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-x_2065774404189950121",
+    "slug": "dog-with-brain-helmet-gemini-omni-flash",
+    "title": "dog with brain helmet",
+    "category": "Other Inspiration",
+    "tags": [
+      "Twitter Community"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "a gray great dane dog wearing a metal helmet with a glass dome containing a brain in green liquid, standing by a white door with keys, drooling, realistic lighting, cinematic shot",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/dog-with-brain-helmet-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-x_2065779881414173079",
+    "slug": "woman-in-fashion-collage-gemini-omni-flash",
+    "title": "woman in fashion collage",
+    "category": "Other Inspiration",
+    "tags": [
+      "Twitter Community"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "a collage of nine images featuring a woman in various outfits and poses, each with Russian text overlays and view counts, styled like social media video thumbnails",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/woman-in-fashion-collage-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-x_2065787122074677708",
+    "slug": "build-a-face-style-world-from-front-profile-gemini-omni-flash",
+    "title": "Build a face style world from front profile",
+    "category": "Other Inspiration",
+    "tags": [
+      "Twitter Community"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "build a face style world for this face front profile",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/build-a-face-style-world-from-front-profile-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-x_2065787527861305388",
+    "slug": "desert-adventure-collage-gemini-omni-flash",
+    "title": "Desert Adventure Collage",
+    "category": "Other Inspiration",
+    "tags": [
+      "Twitter Community"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "a cinematic desert landscape at sunset with a futuristic car driving through sand dunes, a man standing in the desert, a giant snake emerging from the sand, and a car interior with a person driving, all in a collage format with a golden hour lighting style",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/desert-adventure-collage-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-x_2065796704784306366",
+    "slug": "woman-cycling-emotions-unnatural-sequence-gemini-omni-flash",
+    "title": "Woman cycling emotions unnatural sequence",
+    "category": "Other Inspiration",
+    "tags": [
+      "Twitter Community"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "Make the woman go through all the emotions in image 2 in an unnatural sequence but continuous shot. Don't include image 2 in the video",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/woman-cycling-emotions-unnatural-sequence-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-x_2065807400242978921",
+    "slug": "coffee-bean-magically-transforms-into-a-cafe-gemini-omni-flash",
+    "title": "Coffee Bean Magically Transforms into a Café",
+    "category": "Other Inspiration",
+    "tags": [
+      "Twitter Community"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "A cinematic 10-second magical transformation video starting with a single glowing roasted coffee bean suspended in a dark empty space under a dramatic spotlight. The bean smoothly rotates, and as it turns, it begins to emit a warm amber light. From this light, a fully furnished, cozy café materializes around it in a seamless, magical transformation. The final shot is a wide-angle view of the completed café with soft lighting and steam rising from coffee cups, all within the 10-second duration.",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/coffee-bean-magically-transforms-into-a-cafe-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-x_2065819524201349358",
+    "slug": "system-reboot-memory-ban-gemini-omni-flash",
+    "title": "System Reboot Memory Ban",
+    "category": "Other Inspiration",
+    "tags": [
+      "Twitter Community"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "dark sci-fi scene with glowing blue and orange light beams, futuristic weapon in foreground, text overlay 'SYSTEM REBOOT MEMORY BAN', cinematic lighting, high contrast, cyberpunk aesthetic",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/system-reboot-memory-ban-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-x_2065826537203445776",
+    "slug": "creating-an-ai-video-gemini-omni-flash",
+    "title": "Creating an AI video",
+    "category": "Other Inspiration",
+    "tags": [
+      "Twitter Community"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "a person's arm in motion, blurred, with a computer setup in the background, text overlay 'Creating an'",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/creating-an-ai-video-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-x_2065841912154587510",
+    "slug": "ai-generation-meme-gemini-omni-flash",
+    "title": "AI generation meme",
+    "category": "Other Inspiration",
+    "tags": [
+      "Twitter Community"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "single_image_to_video",
+    "prompt": "a collage of three images: a toy car on a messy desk, a colorful abstract sculpture at night, and a man in a hoodie speaking into a microphone with text 'so Google', all in a meme format",
+    "variables": [],
+    "referenceImageCount": 1,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/ai-generation-meme-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-x_2065868004944990266",
+    "slug": "man-with-tech-logos-gemini-omni-flash",
+    "title": "Man with tech logos",
+    "category": "Other Inspiration",
+    "tags": [
+      "Twitter Community"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "a man with a beard wearing a black t-shirt, standing in front of a gradient background with three logos: Higgsfield Nano Banana Pro, Google, and Google Nano Banana, all clearly visible and well-lit",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/man-with-tech-logos-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-x_2065869899172602003",
+    "slug": "google-omni-video-edit-gemini-omni-flash",
+    "title": "Google Omni video edit",
+    "category": "Other Inspiration",
+    "tags": [
+      "Twitter Community"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "A man with blonde hair sits on a green couch next to a lion, in a split-screen comparison showing an edited version with the lion and the original without it, under the text 'AI Video Editing Google Omni'",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/google-omni-video-edit-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-x_2065898537121185919",
+    "slug": "rock-sugar-boulevards-of-paris-gemini-omni-flash",
+    "title": "Rock Sugar Boulevards of Paris",
+    "category": "Other Inspiration",
+    "tags": [
+      "Twitter Community"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "Rock-sugar boulevards dissolving into syrup, the color deepening from winter grey to spring blossom to the amber of fallen leaves — ten seconds, Gemini Omni.",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/rock-sugar-boulevards-of-paris-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-x_2065966067646882049",
+    "slug": "museum-heist-escape-gemini-omni-flash",
+    "title": "Museum Heist Escape",
+    "category": "Other Inspiration",
+    "tags": [
+      "Twitter Community"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "a masked thief in black gear rappelling down from a skylight in a dimly lit museum gallery with ancient statues on pedestals, dramatic lighting from above, cinematic atmosphere",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/museum-heist-escape-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-x_2066152063147401699",
+    "slug": "wrap-video-in-realism-or-photographic-realism-gemini-omni-flash",
+    "title": "Wrap Video in Realism or Photographic Realism",
+    "category": "Other Inspiration",
+    "tags": [
+      "Twitter Community"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "\"Wrap the video in realism\" or \"Wrap the video in the realism of the photograph\"",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/wrap-video-in-realism-or-photographic-realism-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-x_2066165288274378931",
+    "slug": "blue-reptile-close-up-gemini-omni-flash",
+    "title": "Blue Reptile Close-Up",
+    "category": "Other Inspiration",
+    "tags": [
+      "Twitter Community"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "close-up of a blue reptilian creature with yellow eyes, detailed scales, cinematic lighting, fantasy environment",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/blue-reptile-close-up-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-x_2066207002754269581",
+    "slug": "airplane-above-clouds-gemini-omni-flash",
+    "title": "Airplane above clouds",
+    "category": "Other Inspiration",
+    "tags": [
+      "Twitter Community"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "a white and green Azərbaycan airplane flying above clouds at sunset, with golden light rays shining through the clouds, cinematic lighting, high detail, realistic rendering",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/airplane-above-clouds-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-x_2066217635335827599",
+    "slug": "woman-with-microphone-collage-gemini-omni-flash",
+    "title": "woman with microphone collage",
+    "category": "Other Inspiration",
+    "tags": [
+      "Twitter Community"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "a woman with long black hair in a black shirt and maroon pants holding a pink microphone, shown in multiple overlapping frames in a modern room with bookshelves, cinematic lighting, collage style",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/woman-with-microphone-collage-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-x_2066259869230133618",
+    "slug": "glowing-orbs-in-darkness-gemini-omni-flash",
+    "title": "Glowing orbs in darkness",
+    "category": "Other Inspiration",
+    "tags": [
+      "Twitter Community"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "dark background with two warm glowing orbs, soft bokeh effect, minimalist abstract composition",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/glowing-orbs-in-darkness-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-x_2066279875049058606",
+    "slug": "gemini-omni-ai-lighting-gemini-omni-flash",
+    "title": "Gemini Omni AI Lighting",
+    "category": "Other Inspiration",
+    "tags": [
+      "Twitter Community"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "a man wearing a black cap and sunglasses, holding a microphone, with text overlay 'Gemini Omni AI Studio Lighting', indoor studio setting, warm lighting, realistic photo",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/gemini-omni-ai-lighting-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-x_2066279881609269627",
+    "slug": "professional-content-creator-background-replacement-gemini-omni-flash",
+    "title": "Professional Content Creator Background Replacement",
+    "category": "Other Inspiration",
+    "tags": [
+      "Twitter Community"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "Replace only the background behind the subject with a professional content-creator desk setup — a high-end desk and computer environment with cool-toned",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/professional-content-creator-background-replacement-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-x_2066279884658471322",
+    "slug": "wellness-influencer-background-replacement-prompt-gemini-omni-flash",
+    "title": "Wellness Influencer Background Replacement Prompt",
+    "category": "Other Inspiration",
+    "tags": [
+      "Twitter Community"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "Replace only the background behind the subject with a professional beauty and lifestyle influencer backdrop — a clean, elegant interior with soft, warm ambient lighting",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/wellness-influencer-background-replacement-prompt-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-x_2066279889322299408",
+    "slug": "professional-film-studio-background-replacement-gemini-omni-flash",
+    "title": "Professional Film Studio Background Replacement",
+    "category": "Other Inspiration",
+    "tags": [
+      "Twitter Community"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "Replace the existing background behind the subject with a professional film studio environment designed for a content creator — soft, slightly out-of-focus (shallow depth of field) so the subject stays sharp and the setting",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/professional-film-studio-background-replacement-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-x_2066299066175181093",
+    "slug": "riding-a-blue-dragon-gemini-omni-flash",
+    "title": "Riding a Blue Dragon",
+    "category": "Other Inspiration",
+    "tags": [
+      "Twitter Community"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "first-person view of riding a blue dragon over a tropical island with waterfalls and ocean, cinematic lighting, highly detailed scales, fantasy art style",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/riding-a-blue-dragon-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  },
+  {
+    "id": "gemini-omni-flash-x_2066303158490693695",
+    "slug": "woman-in-bed-at-night-gemini-omni-flash",
+    "title": "woman in bed at night",
+    "category": "Other Inspiration",
+    "tags": [
+      "Twitter Community"
+    ],
+    "model": "gemini-omni-flash",
+    "domain": "video",
+    "inputMode": "text_to_video",
+    "prompt": "a woman lying in bed, wearing a gray off-shoulder sweater, with long brown hair, resting her head on her hand, soft warm lighting from a bedside lamp, cozy bedroom setting, cinematic lighting, realistic details",
+    "variables": [],
+    "referenceImageCount": 0,
+    "source": {
+      "caseUrl": "https://imagepromptgallery.com/cases/woman-in-bed-at-night-gemini-omni-flash",
+      "attribution": "Atlas Cloud Prompt Library"
+    }
+  }
+]

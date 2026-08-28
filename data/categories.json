@@ -1,0 +1,14 @@
+{
+  "schemaVersion": "2026-08-28",
+  "generatedAt": "2026-08-28T09:56:10.156Z",
+  "model": "gemini-omni-flash",
+  "repository": "https://github.com/Toolcentral-ai/awesome-gemini-omni-flash-prompts",
+  "count": 1,
+  "categories": [
+    {
+      "slug": "other-inspiration",
+      "title": "Other Inspiration",
+      "count": 89
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "gemini-omni-flash-051_generated_21_13919_case",
+  "slug": "051-generated-21-13919-case-gemini-omni-flash",
+  "title": "动漫风狐狸少女求抱抱",
+  "category": "Atlas Generated T2V",
+  "tags": [],
+  "model": "gemini-omni-flash",
+  "domain": "video",
+  "inputMode": "text_to_video",
+  "prompt": "An anime-style illustration of a cute girl with {argument name=\"animal ears\" default=\"fluffy dark brown fox ears\"} and long flowing {argument name=\"hair color\" default=\"dark brown\"} hair. She is wearing a detailed {argument name=\"clothing\" default=\"red and white floral kimono with fur trim\"} and a floral hair accessory with red tassels. She has a {argument name=\"expression\" default=\"bright happy smile with a slight blush\"} and warm amber eyes, reaching both hands forward towards the viewer in a welcoming hug. The perspective features strong foreshortening on her hands, which are slightly out of focus. The scene is set with {argument name=\"environment\" default=\"falling snow against a bright white background\"}, illuminated by soft, warm, ethereal lighting.",
+  "variables": [],
+  "referenceImageCount": 0,
+  "source": {
+    "caseUrl": "https://imagepromptgallery.com/models/gemini-omni-flash/prompts",
+    "attribution": "Atlas Cloud Prompt Library"
+  }
+}
